@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "fa-brands fa-instagram",
+    "text": "Instagram",
+    "url": "https://google.com"
+  },
+  {
+    "icon": "fa-brands fa-whatsapp",
+    "text": "WhatsApp",
+    "url": "https://wa.me/+6285216948899"
+  },
+  {
+  "icon": "fa-solid fa-cart-shopping",
+  "text": "Shop Our Shopee Store",
+  "url": "https://google.com"
+  },
+  {
+    "icon": "fa-solid fa-map-location-dot",
+    "text": "Find Our Store",
+    "url": "https://maps.app.goo.gl/CZ5tBP9Sb2WbzZu66"
+  },
+    {
+    "icon": "fa-solid fa-envelope",
+    "text": "Email Us",
+    "url": "mailto:hello@tempe.sweettimes@gmail.com"
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "text": "Official Website",
+    "url": "https://google.com"
+  }
+]
