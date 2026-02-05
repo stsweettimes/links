@@ -2,7 +2,7 @@
   {
     "icon": "fa-brands fa-instagram",
     "text": "Instagram",
-    "url": "https://google.com"
+    "url": "https://www.instagram.com/sweettimes.tempe"
   },
   {
     "icon": "fa-brands fa-whatsapp",
@@ -12,12 +12,7 @@
   {
   "icon": "fa-solid fa-cart-shopping",
   "text": "Shop Our Shopee Store",
-  "url": "https://google.com"
-  },
-  {
-    "icon": "fa-solid fa-map-location-dot",
-    "text": "Find Our Store",
-    "url": "https://maps.app.goo.gl/CZ5tBP9Sb2WbzZu66"
+  "url": "https://shopee.co.id/sweettimes.tempe"
   },
     {
     "icon": "fa-solid fa-envelope",
@@ -25,8 +20,8 @@
     "url": "mailto:tempe.sweettimes@gmail.com"
   },
   {
-    "icon": "fa-solid fa-globe",
-    "text": "Official Website",
+    "icon": "fa-solid fa-file-pdf",
+    "text": "Company Profile",
     "url": "https://google.com"
   }
 ]
